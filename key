@@ -1,0 +1,16 @@
+key: euvJNzwRae892OsNeOu2EA
+secret: hhTL3Y73rqyOof3hzCAty7S85WztZ18kVhMbE5KzxOA
+
+
+https://www.goodreads.com/book/search?q=${buscalivro()}&api_key=euvJNzwRae892OsNeOu2EA.xml
+https://www.goodreads.com/book/title.xml
+
+
+format: xml or json
+key: Developer key (required).
+title: The title of the book to lookup.
+author: The author name of the book to lookup. This is optional, but is recommended for accuracy.
+rating: Show only reviews with a particular rating (optional)
+
+
+http://api.giphy.com/v1/gifs/search?q=${buscaGif()}&api_key=az5qe2U1BYVwtvWgrDjVucEoknKtxWjW&`
